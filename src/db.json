@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "id": "123",
+      "name": "arjun",
+      "address": "sola",
+      "phoneNo": "07507665452",
+      "email": "arjunka3@gmail.com",
+      "password": "asdfg"
+    },
+    {
+      "id": "2189",
+      "name": "arjunk",
+      "address": "solapur",
+      "phoneNo": "07507665352",
+      "email": "arjunkagwade3@gmail.com",
+      "password": "asdfg"
+    },
+    {
+      "id": [
+        "11111"
+      ],
+      "name": [
+        "afbadfjkfls"
+      ],
+      "address": [
+        "jlasjjflmkvj;oi;fjaslmljllfask;ofiaddflk"
+      ],
+      "phoneNo": [
+        "1234567890"
+      ],
+      "email": [
+        "jkaf;lfal@kjjiual"
+      ],
+      "password": [
+        "asdfghjklloiqw"
+      ]
+    }
+  ]
+}

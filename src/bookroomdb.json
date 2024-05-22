@@ -1,0 +1,69 @@
+{
+  "room": [
+    {
+      "id": "2341",
+      "startdate": "2024-05-18",
+      "enddate": "2024-05-19",
+      "noofpersons": 5,
+      "noofrooms": 4
+    },
+    {
+      "id": "1222",
+      "startdate": "2024-05-21",
+      "enddate": "2024-05-22",
+      "noofpersons": "10",
+      "noofrooms": "15"
+    },
+    {
+      "id": [
+        "11"
+      ],
+      "startdate": [
+        "2024-05-22"
+      ],
+      "enddate": [
+        "2024-05-23"
+      ],
+      "noofpersons": [
+        "12"
+      ],
+      "noofrooms": [
+        "12"
+      ]
+    },
+    {
+      "id": [
+        "11"
+      ],
+      "startdate": [
+        "2024-05-22"
+      ],
+      "enddate": [
+        "2024-05-23"
+      ],
+      "noofpersons": [
+        "22"
+      ],
+      "noofrooms": [
+        "15"
+      ]
+    },
+    {
+      "id": [
+        "234"
+      ],
+      "startdate": [
+        "2024-05-22"
+      ],
+      "enddate": [
+        "2024-05-25"
+      ],
+      "noofpersons": [
+        "11"
+      ],
+      "noofrooms": [
+        "11"
+      ]
+    }
+  ]
+}
